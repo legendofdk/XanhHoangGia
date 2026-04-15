@@ -48,27 +48,40 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 16px;
-  padding: 14px 18px;
+  gap: 18px;
+  padding: 10px 12px 10px 14px;
   margin-bottom: 22px;
   border: 1px solid var(--line);
   border-radius: 999px;
-  background: rgba(255, 255, 251, 0.94);
-  box-shadow: 0 12px 28px rgba(28, 40, 28, 0.06);
+  background:
+    linear-gradient(135deg, rgba(255, 255, 251, 0.98), rgba(238, 247, 236, 0.92)),
+    rgba(255, 255, 251, 0.94);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.85),
+    0 16px 36px rgba(28, 40, 28, 0.08);
   backdrop-filter: blur(12px);
 }
 
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
+  min-width: max-content;
+  padding: 4px 12px 4px 4px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.68);
   text-decoration: none;
   color: var(--text);
 }
 
 .brand-logo {
-  width: 42px;
-  height: 42px;
+  width: 46px;
+  height: 46px;
+  padding: 5px;
+  border: 1px solid rgba(23, 118, 49, 0.1);
+  border-radius: 50%;
+  background: #fffdfa;
+  box-shadow: 0 8px 18px rgba(29, 47, 31, 0.08);
   object-fit: contain;
   flex: 0 0 auto;
 }
@@ -78,8 +91,8 @@ body {
   margin: 0;
   color: var(--green-deep);
   font-family: var(--font-ui);
-  font-size: 0.76rem;
-  font-weight: 600;
+  font-size: 0.78rem;
+  font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
 }
@@ -88,26 +101,40 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
-  gap: 10px;
+  gap: 6px;
   min-width: 0;
+  padding: 5px;
+  border: 1px solid rgba(23, 118, 49, 0.08);
+  border-radius: 999px;
+  background: rgba(23, 118, 49, 0.045);
 }
 
 .main-nav a {
   flex: 0 0 auto;
-  padding: 10px 12px;
+  padding: 9px 12px;
   border-radius: 999px;
   text-decoration: none;
   color: var(--muted);
   font-family: var(--font-ui);
-  font-size: 0.9rem;
-  font-weight: 500;
-  transition: 160ms ease;
+  font-size: 0.88rem;
+  font-weight: 600;
+  line-height: 1.2;
+  transition:
+    background 160ms ease,
+    color 160ms ease,
+    box-shadow 160ms ease,
+    transform 160ms ease;
 }
 
 .main-nav a:hover,
 .main-nav a.is-active {
-  background: var(--green);
+  background: linear-gradient(135deg, var(--green), var(--green-deep));
   color: #fff;
+  box-shadow: 0 8px 18px rgba(23, 118, 49, 0.18);
+}
+
+.main-nav a:hover {
+  transform: translateY(-1px);
 }
 
 .hero,
@@ -1614,16 +1641,24 @@ body {
     position: static;
     flex-direction: column;
     align-items: flex-start;
-    border-radius: 28px;
+    gap: 10px;
+    padding: 12px;
+    border-radius: 26px;
+  }
+
+  .brand {
+    width: 100%;
+    padding-right: 14px;
   }
 
   .main-nav {
     width: 100%;
     flex-wrap: nowrap;
     justify-content: flex-start;
+    gap: 6px;
     overflow-x: auto;
     overflow-y: hidden;
-    padding-bottom: 4px;
+    padding: 6px;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: thin;
   }
@@ -1735,35 +1770,36 @@ body {
 
   .topbar {
     top: 0;
-    gap: 12px;
-    padding: 14px;
+    gap: 10px;
+    padding: 10px;
     margin-bottom: 16px;
-    border-radius: 24px;
+    border-radius: 22px;
   }
 
   .brand {
-    width: 100%;
-    gap: 12px;
+    gap: 10px;
+    padding: 5px 10px 5px 5px;
   }
 
   .brand-logo {
-    width: 38px;
-    height: 38px;
+    width: 42px;
+    height: 42px;
   }
 
   .brand-kicker {
-    font-size: 0.9rem;
-    letter-spacing: 0.12em;
+    font-size: 0.82rem;
+    letter-spacing: 0.1em;
   }
 
   .main-nav {
     gap: 8px;
-    padding-bottom: 6px;
+    padding: 6px;
+    border-radius: 18px;
   }
 
   .main-nav a {
-    padding: 9px 12px;
-    font-size: 0.92rem;
+    padding: 9px 11px;
+    font-size: 0.88rem;
     white-space: nowrap;
   }
 
@@ -1780,8 +1816,12 @@ body {
   }
 
   .org-chart {
+    --org-mobile-width: 560px;
     padding: 18px 14px 6px;
     border-radius: 22px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: thin;
   }
 
   .org-chart-connector-vertical {
@@ -1789,17 +1829,21 @@ body {
   }
 
   .org-branches {
-    grid-template-columns: 1fr;
-    gap: 16px;
-    padding-top: 18px;
+    min-width: var(--org-mobile-width);
+    grid-template-columns: repeat(4, minmax(118px, 1fr));
+    gap: 12px;
+    padding-top: 20px;
   }
 
   .org-branches::before {
-    display: none;
+    display: block;
+    left: 11%;
+    right: 11%;
   }
 
   .org-branch-connector {
-    display: none;
+    display: block;
+    height: 18px;
   }
 
   .org-node-primary {
@@ -1808,9 +1852,18 @@ body {
     font-size: 1.12rem;
   }
 
+  .org-chart-top {
+    min-width: var(--org-mobile-width);
+  }
+
+  .org-chart-connector-mid {
+    margin-left: calc((var(--org-mobile-width) / 2) - 1px);
+    margin-right: 0;
+  }
+
   .org-node-secondary {
-    min-height: 0;
-    font-size: 0.95rem;
+    min-height: 64px;
+    font-size: 0.9rem;
   }
 
   .organization-sectors {
