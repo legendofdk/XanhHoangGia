@@ -147,8 +147,22 @@ body {
 }
 
 .hero {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, 260px);
+  gap: 28px;
+  align-items: center;
   padding: 34px 34px 30px;
   margin-bottom: 24px;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 86% 26%, rgba(36, 154, 60, 0.12), transparent 24%),
+    linear-gradient(135deg, rgba(255, 255, 250, 0.98), rgba(244, 248, 239, 0.92));
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
 }
 
 .hero h1,
@@ -190,6 +204,38 @@ body {
   background: rgba(36, 154, 60, 0.08);
   color: var(--green-deep);
   font-size: 0.94rem;
+}
+
+.hero-mark {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  justify-self: end;
+  width: clamp(170px, 22vw, 260px);
+  aspect-ratio: 1;
+  border: 1px solid rgba(23, 118, 49, 0.14);
+  border-radius: 50%;
+  background:
+    radial-gradient(circle at 35% 28%, rgba(255, 255, 255, 0.96), rgba(255, 255, 255, 0.72) 42%, rgba(225, 241, 221, 0.78)),
+    #fffdfa;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.9),
+    0 26px 54px rgba(29, 47, 31, 0.12);
+}
+
+.hero-mark::before {
+  content: "";
+  position: absolute;
+  inset: -14px;
+  border: 1px solid rgba(36, 154, 60, 0.1);
+  border-radius: inherit;
+}
+
+.hero-mark img {
+  width: 68%;
+  height: 68%;
+  object-fit: contain;
 }
 
 .document-flow {
@@ -757,11 +803,12 @@ body {
 }
 
 .partner-card {
-  display: grid;
-  grid-template-columns: 74px minmax(0, 1fr);
-  gap: 12px;
-  align-items: center;
-  min-height: 68px;
+  min-height: 78px;
+  padding: 16px 18px;
+  border: 1px solid rgba(23, 118, 49, 0.1);
+  border-radius: 18px;
+  background: rgba(255, 253, 250, 0.76);
+  box-shadow: 0 10px 22px rgba(29, 47, 31, 0.045);
 }
 
 .partner-logo-box {
@@ -772,10 +819,6 @@ body {
   padding: 6px;
   border-radius: 12px;
   background: rgba(255, 253, 250, 0.82);
-}
-
-.partner-logo-box-empty {
-  background: transparent;
 }
 
 .partner-logo {
@@ -1637,6 +1680,15 @@ body {
 }
 
 @media (max-width: 980px) {
+  .hero {
+    grid-template-columns: minmax(0, 1fr) minmax(140px, 190px);
+    gap: 20px;
+  }
+
+  .hero-mark {
+    width: clamp(140px, 24vw, 190px);
+  }
+
   .topbar {
     position: static;
     flex-direction: column;
@@ -1932,19 +1984,7 @@ body {
   }
 
   .partner-card {
-    grid-template-columns: 76px minmax(0, 1fr);
-    gap: 12px;
     min-height: 74px;
-  }
-
-  .partner-logo-box {
-    min-height: 58px;
-    padding: 6px;
-    border-radius: 12px;
-  }
-
-  .partner-logo {
-    max-height: 48px;
   }
 
   .partner-name {
@@ -2005,6 +2045,17 @@ body {
   .contact-cta {
     padding: 20px;
     border-radius: 22px;
+  }
+
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+
+  .hero-mark {
+    justify-self: center;
+    order: -1;
+    width: min(190px, 54vw);
   }
 
   .hero-contact {

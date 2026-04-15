@@ -788,32 +788,45 @@ function renderSuppliersSection() {
   const suppliers = [
     {
       number: "01",
-      name: "HTX Nông Sản Sạch Bảo An",
+      name: "Công ty TNHH ĐTSX Phát Triển Nông Nghiệp WINECO",
       summary:
-        "Đối tác chiến lược cung cấp nông sản sạch, chất lượng cao, góp phần đảm bảo nguồn nguyên liệu đầu vào an toàn và giàu dinh dưỡng cho các sản phẩm thực phẩm của Hoàng Gia.",
+        "Nhà cung cấp rau, củ, quả sạch với định hướng sản xuất nông nghiệp hiện đại, chú trọng chất lượng, độ an toàn và sự tươi ngon của sản phẩm.",
       details:
-        "Bảo An chú trọng canh tác theo phương pháp hữu cơ, hạn chế hóa chất độc hại, đạt chứng nhận VietGAP và tuân thủ quy trình kiểm soát chất lượng nghiêm ngặt từ gieo trồng, chăm sóc đến thu hoạch.",
+        "Theo thông tin doanh nghiệp công khai, WINECO có ngành nghề chính là trồng rau, đậu các loại và trồng hoa, cây cảnh. Các mô tả giới thiệu về WinEco nhấn mạnh việc ứng dụng công nghệ cao, kiểm soát chất lượng và hướng tới các tiêu chuẩn như VietGAP, Organic, GlobalGAP cho nhóm rau củ quả.",
       images: [
-        "assets/pdf-images-clean/doi-tac-nha-cung-cap-03.jpeg",
-        "assets/pdf-images-clean/doi-tac-nha-cung-cap-06.jpeg",
-        "assets/pdf-images-clean/doi-tac-nha-cung-cap-07.jpeg",
+        "assets/pdf-images-clean/wineco1.jpg",
+        "assets/pdf-images-clean/wineco3.jpg",
+        "assets/pdf-images-clean/wineco4.jpg",
       ],
     },
     {
       number: "02",
-      name: "Công ty CP Nông Sản Phú Gia",
+      name: "HTX Canh Nậu",
       summary:
-        "Đối tác cung cấp thịt gà chất lượng cao với hệ thống trang trại công nghệ cao theo tiêu chuẩn Châu Âu và quy trình chăn nuôi khép kín.",
+        "Nhà cung cấp rau, củ, quả phục vụ nguồn nguyên liệu tươi cho Hoàng Gia Foods, góp phần đảm bảo tính ổn định và đa dạng của nhóm nông sản.",
       details:
-        "Phú Gia ứng dụng mô hình chuỗi giá trị từ thức ăn, chăn nuôi, thực phẩm đến phân bón và cây trồng. Quy trình chăn nuôi, giết mổ, chế biến và đóng gói được kiểm soát theo các tiêu chuẩn an toàn vệ sinh thực phẩm.",
+        "Canh Nậu được đưa vào nhóm nhà cung cấp chính cho danh mục rau, củ, quả với trọng tâm là nguồn hàng tươi, được chọn lọc và kiểm soát theo tiêu chí nhập hàng của Hoàng Gia trước khi đưa vào bảo quản, sơ chế và cung ứng.",
       images: [
-        "assets/pdf-images-clean/doi-tac-nha-cung-cap-13.jpeg",
-        "assets/pdf-images-clean/doi-tac-nha-cung-cap-08.jpeg",
-        "assets/pdf-images-clean/doi-tac-nha-cung-cap-12.jpeg",
+        "assets/pdf-images-clean/canhnau1.jpg",
+        "assets/pdf-images-clean/canhnau2.webp",
+        "assets/pdf-images-clean/canhnau3.jpg",
       ],
     },
     {
       number: "03",
+      name: "Công ty Nam Bình",
+      summary:
+        "Nhà cung cấp gạo cho Hoàng Gia Foods, hỗ trợ đảm bảo nguồn lương thực ổn định, phù hợp nhu cầu bếp ăn công nghiệp và suất ăn tập thể.",
+      details:
+        "Gạo Nam Bình được đưa vào nhóm nhà cung cấp chính nhằm bổ sung nguồn gạo chất lượng, phục vụ danh mục thực phẩm thiết yếu với yêu cầu ổn định về sản lượng, độ đồng đều và an toàn trong quá trình cung ứng.",
+      images: [
+        "assets/pdf-images-clean/gaonambinh1.jpg",
+        "assets/pdf-images-clean/gaonambinh2.jpg",
+        "assets/pdf-images-clean/gaonambinh3.jpg",
+      ],
+    },
+    {
+      number: "04",
       name: "Vinh Anh Food",
       summary:
         "Đối tác quan trọng chuyên cung cấp thịt lợn chất lượng cao, an toàn, giàu dinh dưỡng và đáp ứng các tiêu chuẩn khắt khe về vệ sinh an toàn thực phẩm.",
@@ -830,7 +843,7 @@ function renderSuppliersSection() {
   const wrapper = make("div", "suppliers-layout");
   const intro = make("div", "suppliers-intro");
   intro.append(make("p", "suppliers-kicker", "Các nhà cung cấp mục tiêu"));
-  intro.append(make("h3", "suppliers-heading", "3 nhà cung cấp chính"));
+  intro.append(make("h3", "suppliers-heading", "Nhà cung cấp chính"));
   intro.append(
     make(
       "p",
@@ -919,105 +932,52 @@ function renderWarehouseSection() {
 function renderOtherPartnersSection() {
   const partners = [
     {
-      name: "Công ty TNHH Dịch vụ Ẩm thực Seong - Ho",
-      address: "Khu Công Nghiệp Đồng Văn I, P. Bạch Thượng, Thị xã Duy Tiên, Tỉnh Hà Nam, Việt Nam",
-      logo: "assets/pdf-images-clean/khach-hang-02.jpeg",
+      name: "Danh sách Bộ Công ty Thực phẩm Hoàng Gia",
+      category: "Hồ sơ tổng hợp",
     },
     {
-      name: "Công ty TNHH Suất ăn ALOCOM",
-      address: "Khu hành chính 3, P. Liên Bảo, TP. Vĩnh Yên, Tỉnh Vĩnh Phúc, Việt Nam",
-      logo: "assets/pdf-images-clean/khach-hang-13.png",
+      name: "Công ty TNHH KD & SXTM Thực Phẩm Hoàng Gia",
+      category: "Hồ sơ doanh nghiệp",
     },
     {
-      name: "Công ty TNHH Hệ thống Dây dẫn ECO",
-      address: "KCN Đồng Văn IV, Xã Đại Cương, Huyện Kim Bảng, Hà Nam",
-      logo: "assets/pdf-images-clean/khach-hang-07.png",
+      name: "NCC Rau, củ, quả Công ty Hưng Thành",
+      category: "Cung cấp rau, củ quả các loại",
     },
     {
-      name: "Công ty TNHH Dịch vụ Ăn uống Ánh Dương Food",
-      address: "45/57/20 Nguyễn Văn Đậu, P. 6, Q. Bình Thạnh, TP Hồ Chí Minh, Việt Nam",
-      logo: "assets/pdf-images-clean/khach-hang-14.jpeg",
+      name: "Công ty TNHH SXTM Và Xuất Nhập Khẩu Minh Hải",
+      category: "Cung cấp chuối chín, hoa quả",
     },
     {
-      name: "Công ty TNHH MeatDeli HN",
-      address: "Lô CN-02, Khu công nghiệp Đồng Văn IV, xã Đại Cương, huyện Kim Bảng, tỉnh Hà Nam, Việt Nam",
-      logo: "assets/pdf-images-clean/khach-hang-08.png",
+      name: "NCC Hoa quả HTX Cao Phong",
+      category: "Cung cấp hoa quả",
     },
     {
-      name: "Công ty TNHH Phát triển Bình Thuận",
-      address: "Lô CN 3, KCN Đồng Văn IV, xã Đại Cương, huyện Kim Bảng, Hà Nam",
-      logo: "assets/pdf-images-clean/khach-hang-05.jpeg",
+      name: "NCC Thịt gia súc gia cầm Công ty Hòa Quỳnh",
+      category: "Cung cấp gia súc gia cầm",
     },
     {
-      name: "Công ty TNHH Dịch vụ FNC",
-      address: "Số 10 Nguyễn Quý Tân, P. Liên Bảo Thành, phố Vĩnh Yên, tỉnh Vĩnh Phúc, Việt Nam",
-      logo: "assets/pdf-images-clean/khach-hang-09.jpeg",
+      name: "NCC Thịt gia súc gia cầm Công ty Tú Huyền",
+      category: "Cung cấp gia súc gia cầm",
     },
     {
-      name: "Công ty TNHH Sunfoods Catering",
-      address: "Thôn 2 Hoàng Lâu, Xã Hồng Phong, Huyện An Dương, Hải Phòng",
-      logo: "assets/pdf-images-clean/khach-hang-06.jpeg",
+      name: "NCC Thịt gia súc gia cầm Công ty MeatDeli",
+      category: "Cung cấp gia súc gia cầm",
     },
     {
-      name: "Công ty TNHH Dịch vụ VICA",
-      address: "Tầng 11, Tòa nhà Việt Á, số 9 Duy Tân, P. Dịch Vọng Hậu, Q. Cầu Giấy, TP.Hà Nội, Việt Nam",
-      logo: "assets/pdf-images-clean/khach-hang-10.jpeg",
+      name: "NCC Trứng HKD Chiến Linh",
+      category: "Cung cấp các loại trứng",
     },
     {
-      name: "Công ty TNHH Thành Công HPT",
-      address: "Lô 15, 16, 17 - N06 đường Thanh Niên, khu dân cư phía Nam, P. Dĩnh Kế, TP. Bắc Giang, Tỉnh Bắc Giang, Việt Nam",
-      logo: "assets/pdf-images-clean/khach-hang-03.jpeg",
+      name: "NCC Thủy hải sản Công ty Seafood",
+      category: "Cung cấp các loại thủy hải sản",
     },
     {
-      name: "Công ty TNHH Jungwon Electronics Vietnam",
-      address: "Lô CN10.1, đường D6, Khu công nghiệp Châu Sơn, P. Châu Sơn, TP. Phủ Lý, Tỉnh Hà Nam, Việt Nam",
-      logo: "assets/pdf-images-clean/khach-hang-11.png",
+      name: "NCC Hàng khô Công ty AMICO",
+      category: "Cung cấp các loại hàng khô",
     },
     {
-      name: "Công ty CP Quốc tế Tân Á Hà Nam",
-      address: "Khu công nghiệp Thanh Liêm, Thị trấn Kiện Khê, Huyện Thanh Liêm, Tỉnh Hà Nam, Việt Nam",
-      logo: "assets/pdf-images-clean/khach-hang-04.png",
-    },
-    {
-      name: "Công ty TNHH Olive",
-      address: "Số 49, đường số 23 (TP. Giao Lưu), P. Cổ Nhuế 2, Q. Bắc Từ Liêm, TP. Hà Nội, Việt Nam",
-      logo: "assets/pdf-images-clean/khach-hang-12.jpeg",
-    },
-    {
-      name: "Công ty TNHH Dịch vụ Thương mại HC Toàn Cầu",
-      address: "76 đường Thụy Phương, P. Đông Ngạc, Q. Bắc Từ Liêm, TP Hà Nội",
-    },
-    {
-      name: "Công ty TNHH Sản xuất Thương mại Dịch vụ Nhật Cường",
-      address: "QL 38, P. Yên Bắc, Thị xã Duy Tiên, tỉnh Hà Nam, Việt Nam",
-    },
-    {
-      name: "Công ty TNHH Tân Nét Việt",
-      address: "TDP Đông Hải, phường Duy Hải, thị xã Duy Tiên, tỉnh Hà Nam",
-    },
-    {
-      name: "Công ty TNHH Thực phẩm Phúc Lương",
-      address: "Lô 30A3 khu nhà ở Xi măng Bút Sơn, P. Châu Sơn, TP. Phủ Lý, Hà Nam",
-    },
-    {
-      name: "Công ty TNHH Thực phẩm 3S Hà Nam",
-      address: "Tổ dân phố Đồng Văn, Phường Đồng Văn, Thị Xã Duy Tiên, Hà Nam",
-    },
-    {
-      name: "Công ty TNHH Dịch vụ Thương mại TC Foods",
-      address: "Lô CN05, Khu Công nghiệp hỗ trợ Đồng Văn III, Phường Hoàng Đông, Thị Xã Duy Tiên, Hà Nam",
-    },
-    {
-      name: "Công ty TNHH Thực phẩm HG Hà Nam",
-      address: "Nguyễn Hữu Tiến, Phường Đồng Văn, Thị Xã Duy Tiên, Hà Nam",
-    },
-    {
-      name: "Chi nhánh Công ty TNHH Dịch vụ DI VINA",
-      address: "L3-08-09 Tầng 3 Vincom Plaza Skylake Phạm Hùng, ô đất E1.3, P. Mỹ Đình 1, Q. Nam Từ Liêm, Hà Nội",
-    },
-    {
-      name: "Công ty TNHH F&C Service",
-      address: "Lầu 3, Tòa nhà B15, Số 79/8 đường Hoàng Văn Thái, Khu TTTM Tài Chính Quốc Tế Phú Mỹ Hưng, P. Tân Phú, Q.7, TP Hồ Chí Minh",
+      name: "NCC Hàng khô Công ty Golden Food",
+      category: "Cung cấp các loại hàng khô",
     },
   ];
 
@@ -1025,21 +985,11 @@ function renderOtherPartnersSection() {
   const grid = make("div", "partners-grid");
   partners.forEach((partner) => {
     const card = make("article", "partner-card");
-    const logoBox = make("div", partner.logo ? "partner-logo-box" : "partner-logo-box partner-logo-box-empty");
-
-    if (partner.logo) {
-      const logo = make("img", "partner-logo");
-      logo.src = partner.logo;
-      logo.alt = `Logo ${partner.name}`;
-      logo.loading = "lazy";
-      logoBox.append(logo);
-    }
 
     const body = make("div", "partner-body");
     body.append(make("h4", "partner-name", partner.name));
-    body.append(make("p", "partner-address", partner.address));
+    body.append(make("p", "partner-address", partner.category));
 
-    card.append(logoBox);
     card.append(body);
     grid.append(card);
   });
