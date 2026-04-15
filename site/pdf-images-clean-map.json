@@ -1,0 +1,2453 @@
+[
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-01.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 494,
+    "height": 692,
+    "uses": [
+      {
+        "page": 5,
+        "section": "Chứng nhận",
+        "xref": 185,
+        "page_area_ratio": 0.0784,
+        "raw_file": "assets/pdf-small-images/page-05-img-01-xref-185.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-02.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 495,
+    "height": 690,
+    "uses": [
+      {
+        "page": 5,
+        "section": "Chứng nhận",
+        "xref": 187,
+        "page_area_ratio": 0.0784,
+        "raw_file": "assets/pdf-small-images/page-05-img-02-xref-187.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-03.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 490,
+    "height": 687,
+    "uses": [
+      {
+        "page": 5,
+        "section": "Chứng nhận",
+        "xref": 189,
+        "page_area_ratio": 0.0773,
+        "raw_file": "assets/pdf-small-images/page-05-img-03-xref-189.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-04.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 491,
+    "height": 687,
+    "uses": [
+      {
+        "page": 5,
+        "section": "Chứng nhận",
+        "xref": 191,
+        "page_area_ratio": 0.0774,
+        "raw_file": "assets/pdf-small-images/page-05-img-04-xref-191.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-05.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 1045,
+    "height": 679,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1759,
+        "page_area_ratio": 0.1629,
+        "raw_file": "assets/pdf-small-images/page-11-img-01-xref-1759.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-06.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 523,
+    "height": 348,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1761,
+        "page_area_ratio": 0.0417,
+        "raw_file": "assets/pdf-small-images/page-11-img-02-xref-1761.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-07.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 475,
+    "height": 662,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1763,
+        "page_area_ratio": 0.0722,
+        "raw_file": "assets/pdf-small-images/page-11-img-03-xref-1763.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-08.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 549,
+    "height": 365,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1765,
+        "page_area_ratio": 0.0459,
+        "raw_file": "assets/pdf-small-images/page-11-img-04-xref-1765.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-09.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 513,
+    "height": 341,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1766,
+        "page_area_ratio": 0.0401,
+        "raw_file": "assets/pdf-small-images/page-11-img-05-xref-1766.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-10.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 529,
+    "height": 352,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1767,
+        "page_area_ratio": 0.0428,
+        "raw_file": "assets/pdf-small-images/page-11-img-06-xref-1767.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-11.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 958,
+    "height": 282,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1769,
+        "page_area_ratio": 0.062,
+        "raw_file": "assets/pdf-small-images/page-11-img-07-xref-1769.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-12.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 342,
+    "height": 227,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1770,
+        "page_area_ratio": 0.0178,
+        "raw_file": "assets/pdf-small-images/page-11-img-08-xref-1770.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-13.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 332,
+    "height": 221,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1771,
+        "page_area_ratio": 0.0168,
+        "raw_file": "assets/pdf-small-images/page-11-img-09-xref-1771.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-14.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 338,
+    "height": 225,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1772,
+        "page_area_ratio": 0.0174,
+        "raw_file": "assets/pdf-small-images/page-11-img-10-xref-1772.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-15.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 475,
+    "height": 664,
+    "uses": [
+      {
+        "page": 11,
+        "section": "Chứng nhận",
+        "xref": 1774,
+        "page_area_ratio": 0.0724,
+        "raw_file": "assets/pdf-small-images/page-11-img-11-xref-1774.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-16.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 960,
+    "height": 1280,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1880,
+        "page_area_ratio": 0.3564,
+        "raw_file": "assets/pdf-small-images/page-13-img-01-xref-1880.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-17.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 475,
+    "height": 679,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1882,
+        "page_area_ratio": 0.0741,
+        "raw_file": "assets/pdf-small-images/page-13-img-02-xref-1882.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-18.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 901,
+    "height": 676,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1883,
+        "page_area_ratio": 0.1399,
+        "raw_file": "assets/pdf-small-images/page-13-img-03-xref-1883.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-19.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 486,
+    "height": 693,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1885,
+        "page_area_ratio": 0.0773,
+        "raw_file": "assets/pdf-small-images/page-13-img-04-xref-1885.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-20.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 900,
+    "height": 437,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1886,
+        "page_area_ratio": 0.0575,
+        "raw_file": "assets/pdf-small-images/page-13-img-05-xref-1886.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-21.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 330,
+    "height": 220,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1887,
+        "page_area_ratio": 0.0167,
+        "raw_file": "assets/pdf-small-images/page-13-img-06-xref-1887.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-22.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 357,
+    "height": 238,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1888,
+        "page_area_ratio": 0.0195,
+        "raw_file": "assets/pdf-small-images/page-13-img-07-xref-1888.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-23.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 357,
+    "height": 239,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1889,
+        "page_area_ratio": 0.0195,
+        "raw_file": "assets/pdf-small-images/page-13-img-08-xref-1889.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-24.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 331,
+    "height": 232,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1890,
+        "page_area_ratio": 0.0176,
+        "raw_file": "assets/pdf-small-images/page-13-img-09-xref-1890.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-25.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 344,
+    "height": 241,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1891,
+        "page_area_ratio": 0.019,
+        "raw_file": "assets/pdf-small-images/page-13-img-10-xref-1891.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-26.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 397,
+    "height": 250,
+    "uses": [
+      {
+        "page": 13,
+        "section": "Chứng nhận",
+        "xref": 1892,
+        "page_area_ratio": 0.0227,
+        "raw_file": "assets/pdf-small-images/page-13-img-11-xref-1892.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-27.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 521,
+    "height": 347,
+    "uses": [
+      {
+        "page": 15,
+        "section": "Chứng nhận",
+        "xref": 1937,
+        "page_area_ratio": 0.0415,
+        "raw_file": "assets/pdf-small-images/page-15-img-01-xref-1937.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-28.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 559,
+    "height": 338,
+    "uses": [
+      {
+        "page": 15,
+        "section": "Chứng nhận",
+        "xref": 1938,
+        "page_area_ratio": 0.0434,
+        "raw_file": "assets/pdf-small-images/page-15-img-02-xref-1938.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-29.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 600,
+    "height": 400,
+    "uses": [
+      {
+        "page": 15,
+        "section": "Chứng nhận",
+        "xref": 1939,
+        "page_area_ratio": 0.1668,
+        "raw_file": "assets/pdf-small-images/page-15-img-03-xref-1939.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-30.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 1920,
+    "height": 914,
+    "uses": [
+      {
+        "page": 15,
+        "section": "Chứng nhận",
+        "xref": 1940,
+        "page_area_ratio": 0.2316,
+        "raw_file": "assets/pdf-small-images/page-15-img-04-xref-1940.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-31.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 1042,
+    "height": 884,
+    "uses": [
+      {
+        "page": 15,
+        "section": "Chứng nhận",
+        "xref": 1941,
+        "page_area_ratio": 0.2114,
+        "raw_file": "assets/pdf-small-images/page-15-img-05-xref-1941.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-32.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 614,
+    "height": 409,
+    "uses": [
+      {
+        "page": 15,
+        "section": "Chứng nhận",
+        "xref": 1942,
+        "page_area_ratio": 0.0576,
+        "raw_file": "assets/pdf-small-images/page-15-img-06-xref-1942.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/chung-nhan-33.jpeg",
+    "section": "Chứng nhận",
+    "section_slug": "chung-nhan",
+    "width": 520,
+    "height": 347,
+    "uses": [
+      {
+        "page": 15,
+        "section": "Chứng nhận",
+        "xref": 1943,
+        "page_area_ratio": 0.0414,
+        "raw_file": "assets/pdf-small-images/page-15-img-07-xref-1943.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-01.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 331,
+    "height": 220,
+    "uses": [
+      {
+        "page": 10,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1740,
+        "page_area_ratio": 0.0167,
+        "raw_file": "assets/pdf-small-images/page-10-img-01-xref-1740.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-02.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 329,
+    "height": 219,
+    "uses": [
+      {
+        "page": 10,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1742,
+        "page_area_ratio": 0.0165,
+        "raw_file": "assets/pdf-small-images/page-10-img-02-xref-1742.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-03.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 709,
+    "height": 472,
+    "uses": [
+      {
+        "page": 10,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1744,
+        "page_area_ratio": 0.0769,
+        "raw_file": "assets/pdf-small-images/page-10-img-03-xref-1744.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-04.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 736,
+    "height": 490,
+    "uses": [
+      {
+        "page": 10,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1745,
+        "page_area_ratio": 0.0827,
+        "raw_file": "assets/pdf-small-images/page-10-img-04-xref-1745.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-05.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 450,
+    "height": 300,
+    "uses": [
+      {
+        "page": 10,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1747,
+        "page_area_ratio": 0.031,
+        "raw_file": "assets/pdf-small-images/page-10-img-05-xref-1747.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-06.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 458,
+    "height": 305,
+    "uses": [
+      {
+        "page": 10,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1749,
+        "page_area_ratio": 0.0321,
+        "raw_file": "assets/pdf-small-images/page-10-img-06-xref-1749.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-07.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 350,
+    "height": 233,
+    "uses": [
+      {
+        "page": 10,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1751,
+        "page_area_ratio": 0.0186,
+        "raw_file": "assets/pdf-small-images/page-10-img-07-xref-1751.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-08.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 343,
+    "height": 257,
+    "uses": [
+      {
+        "page": 12,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1854,
+        "page_area_ratio": 0.0202,
+        "raw_file": "assets/pdf-small-images/page-12-img-01-xref-1854.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-09.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 377,
+    "height": 236,
+    "uses": [
+      {
+        "page": 12,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1855,
+        "page_area_ratio": 0.0204,
+        "raw_file": "assets/pdf-small-images/page-12-img-02-xref-1855.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-10.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 673,
+    "height": 448,
+    "uses": [
+      {
+        "page": 12,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1859,
+        "page_area_ratio": 0.0691,
+        "raw_file": "assets/pdf-small-images/page-12-img-03-xref-1859.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-11.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 462,
+    "height": 308,
+    "uses": [
+      {
+        "page": 12,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1861,
+        "page_area_ratio": 0.0326,
+        "raw_file": "assets/pdf-small-images/page-12-img-04-xref-1861.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-12.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 369,
+    "height": 246,
+    "uses": [
+      {
+        "page": 12,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1862,
+        "page_area_ratio": 0.0208,
+        "raw_file": "assets/pdf-small-images/page-12-img-05-xref-1862.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-13.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 502,
+    "height": 669,
+    "uses": [
+      {
+        "page": 12,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1863,
+        "page_area_ratio": 0.0771,
+        "raw_file": "assets/pdf-small-images/page-12-img-06-xref-1863.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-14.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 467,
+    "height": 523,
+    "uses": [
+      {
+        "page": 14,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1926,
+        "page_area_ratio": 0.056,
+        "raw_file": "assets/pdf-small-images/page-14-img-01-xref-1926.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-15.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 680,
+    "height": 453,
+    "uses": [
+      {
+        "page": 14,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1927,
+        "page_area_ratio": 0.0569,
+        "raw_file": "assets/pdf-small-images/page-14-img-02-xref-1927.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-16.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 501,
+    "height": 334,
+    "uses": [
+      {
+        "page": 14,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1928,
+        "page_area_ratio": 0.0384,
+        "raw_file": "assets/pdf-small-images/page-14-img-03-xref-1928.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-17.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 1600,
+    "height": 1200,
+    "uses": [
+      {
+        "page": 14,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1929,
+        "page_area_ratio": 0.3949,
+        "raw_file": "assets/pdf-small-images/page-14-img-04-xref-1929.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-18.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 585,
+    "height": 438,
+    "uses": [
+      {
+        "page": 14,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1930,
+        "page_area_ratio": 0.0587,
+        "raw_file": "assets/pdf-small-images/page-14-img-05-xref-1930.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-19.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 984,
+    "height": 555,
+    "uses": [
+      {
+        "page": 16,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1971,
+        "page_area_ratio": 0.1254,
+        "raw_file": "assets/pdf-small-images/page-16-img-01-xref-1971.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-20.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 511,
+    "height": 383,
+    "uses": [
+      {
+        "page": 16,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1972,
+        "page_area_ratio": 0.0449,
+        "raw_file": "assets/pdf-small-images/page-16-img-02-xref-1972.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/doi-tac-nha-cung-cap-21.jpeg",
+    "section": "Đối tác / Nhà cung cấp",
+    "section_slug": "doi-tac-nha-cung-cap",
+    "width": 700,
+    "height": 467,
+    "uses": [
+      {
+        "page": 16,
+        "section": "Đối tác / Nhà cung cấp",
+        "xref": 1973,
+        "page_area_ratio": 0.0843,
+        "raw_file": "assets/pdf-small-images/page-16-img-03-xref-1973.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/gioi-thieu-01.jpeg",
+    "section": "Giới thiệu",
+    "section_slug": "gioi-thieu",
+    "width": 1476,
+    "height": 982,
+    "uses": [
+      {
+        "page": 2,
+        "section": "Giới thiệu",
+        "xref": 10,
+        "page_area_ratio": 0.333,
+        "raw_file": "assets/pdf-small-images/page-02-img-01-xref-10.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/gioi-thieu-02.jpeg",
+    "section": "Giới thiệu",
+    "section_slug": "gioi-thieu",
+    "width": 694,
+    "height": 461,
+    "uses": [
+      {
+        "page": 2,
+        "section": "Giới thiệu",
+        "xref": 12,
+        "page_area_ratio": 0.0735,
+        "raw_file": "assets/pdf-small-images/page-02-img-02-xref-12.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-01.jpeg",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 1513,
+    "height": 1007,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 1997,
+        "page_area_ratio": 0.2746,
+        "raw_file": "assets/pdf-small-images/page-17-img-01-xref-1997.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-02.jpeg",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 150,
+    "height": 116,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 1998,
+        "page_area_ratio": 0.0027,
+        "raw_file": "assets/pdf-small-images/page-17-img-02-xref-1998.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-03.jpeg",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 95,
+    "height": 134,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 1999,
+        "page_area_ratio": 0.0017,
+        "raw_file": "assets/pdf-small-images/page-17-img-03-xref-1999.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-04.png",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 108,
+    "height": 54,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2001,
+        "page_area_ratio": 0.0013,
+        "raw_file": "assets/pdf-small-images/page-17-img-04-xref-2001.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-05.jpeg",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 130,
+    "height": 98,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2002,
+        "page_area_ratio": 0.0014,
+        "raw_file": "assets/pdf-small-images/page-17-img-05-xref-2002.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-06.jpeg",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 71,
+    "height": 75,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2003,
+        "page_area_ratio": 0.0012,
+        "raw_file": "assets/pdf-small-images/page-17-img-06-xref-2003.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-07.png",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 113,
+    "height": 113,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2004,
+        "page_area_ratio": 0.0039,
+        "raw_file": "assets/pdf-small-images/page-17-img-07-xref-2004.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-08.png",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 102,
+    "height": 96,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2005,
+        "page_area_ratio": 0.0034,
+        "raw_file": "assets/pdf-small-images/page-17-img-08-xref-2005.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-09.jpeg",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 128,
+    "height": 49,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2006,
+        "page_area_ratio": 0.0014,
+        "raw_file": "assets/pdf-small-images/page-17-img-09-xref-2006.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-10.jpeg",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 113,
+    "height": 113,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2007,
+        "page_area_ratio": 0.0034,
+        "raw_file": "assets/pdf-small-images/page-17-img-10-xref-2007.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-11.png",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 170,
+    "height": 102,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2009,
+        "page_area_ratio": 0.0021,
+        "raw_file": "assets/pdf-small-images/page-17-img-11-xref-2009.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-12.jpeg",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 113,
+    "height": 112,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2010,
+        "page_area_ratio": 0.0026,
+        "raw_file": "assets/pdf-small-images/page-17-img-12-xref-2010.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-13.png",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 128,
+    "height": 128,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2012,
+        "page_area_ratio": 0.002,
+        "raw_file": "assets/pdf-small-images/page-17-img-13-xref-2012.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/khach-hang-14.jpeg",
+    "section": "Khách hàng",
+    "section_slug": "khach-hang",
+    "width": 128,
+    "height": 128,
+    "uses": [
+      {
+        "page": 17,
+        "section": "Khách hàng",
+        "xref": 2014,
+        "page_area_ratio": 0.0021,
+        "raw_file": "assets/pdf-small-images/page-17-img-14-xref-2014.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-01.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 1539,
+    "height": 1024,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2020,
+        "page_area_ratio": 0.4591,
+        "raw_file": "assets/pdf-small-images/page-18-img-01-xref-2020.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-02.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 477,
+    "height": 317,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2022,
+        "page_area_ratio": 0.0347,
+        "raw_file": "assets/pdf-small-images/page-18-img-02-xref-2022.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-03.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 498,
+    "height": 331,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2024,
+        "page_area_ratio": 0.0378,
+        "raw_file": "assets/pdf-small-images/page-18-img-03-xref-2024.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-04.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 477,
+    "height": 317,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2026,
+        "page_area_ratio": 0.0347,
+        "raw_file": "assets/pdf-small-images/page-18-img-04-xref-2026.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-05.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 477,
+    "height": 317,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2028,
+        "page_area_ratio": 0.0347,
+        "raw_file": "assets/pdf-small-images/page-18-img-05-xref-2028.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-06.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 493,
+    "height": 328,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2030,
+        "page_area_ratio": 0.037,
+        "raw_file": "assets/pdf-small-images/page-18-img-06-xref-2030.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-07.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 462,
+    "height": 307,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2032,
+        "page_area_ratio": 0.0325,
+        "raw_file": "assets/pdf-small-images/page-18-img-07-xref-2032.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-08.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 492,
+    "height": 327,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2034,
+        "page_area_ratio": 0.0369,
+        "raw_file": "assets/pdf-small-images/page-18-img-08-xref-2034.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-09.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 504,
+    "height": 335,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2036,
+        "page_area_ratio": 0.0387,
+        "raw_file": "assets/pdf-small-images/page-18-img-09-xref-2036.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-10.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 505,
+    "height": 336,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2038,
+        "page_area_ratio": 0.0389,
+        "raw_file": "assets/pdf-small-images/page-18-img-10-xref-2038.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/nha-may-kho-11.jpeg",
+    "section": "Nhà máy / Kho",
+    "section_slug": "nha-may-kho",
+    "width": 495,
+    "height": 330,
+    "uses": [
+      {
+        "page": 18,
+        "section": "Nhà máy / Kho",
+        "xref": 2040,
+        "page_area_ratio": 0.0374,
+        "raw_file": "assets/pdf-small-images/page-18-img-11-xref-2040.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-01.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 330,
+    "height": 220,
+    "uses": [
+      {
+        "page": 7,
+        "section": "Quy trình",
+        "xref": 1650,
+        "page_area_ratio": 0.0166,
+        "raw_file": "assets/pdf-small-images/page-07-img-01-xref-1650.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-02.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 397,
+    "height": 224,
+    "uses": [
+      {
+        "page": 7,
+        "section": "Quy trình",
+        "xref": 1651,
+        "page_area_ratio": 0.0204,
+        "raw_file": "assets/pdf-small-images/page-07-img-02-xref-1651.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-03.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 330,
+    "height": 220,
+    "uses": [
+      {
+        "page": 7,
+        "section": "Quy trình",
+        "xref": 1653,
+        "page_area_ratio": 0.0166,
+        "raw_file": "assets/pdf-small-images/page-07-img-03-xref-1653.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-04.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 330,
+    "height": 220,
+    "uses": [
+      {
+        "page": 7,
+        "section": "Quy trình",
+        "xref": 1655,
+        "page_area_ratio": 0.0166,
+        "raw_file": "assets/pdf-small-images/page-07-img-04-xref-1655.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-05.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 330,
+    "height": 220,
+    "uses": [
+      {
+        "page": 7,
+        "section": "Quy trình",
+        "xref": 1657,
+        "page_area_ratio": 0.0166,
+        "raw_file": "assets/pdf-small-images/page-07-img-05-xref-1657.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-06.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 1095,
+    "height": 1642,
+    "uses": [
+      {
+        "page": 8,
+        "section": "Quy trình",
+        "xref": 1682,
+        "page_area_ratio": 0.5264,
+        "raw_file": "assets/pdf-small-images/page-08-img-01-xref-1682.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-07.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 583,
+    "height": 388,
+    "uses": [
+      {
+        "page": 8,
+        "section": "Quy trình",
+        "xref": 1684,
+        "page_area_ratio": 0.0519,
+        "raw_file": "assets/pdf-small-images/page-08-img-02-xref-1684.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-08.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 583,
+    "height": 388,
+    "uses": [
+      {
+        "page": 8,
+        "section": "Quy trình",
+        "xref": 1686,
+        "page_area_ratio": 0.0519,
+        "raw_file": "assets/pdf-small-images/page-08-img-03-xref-1686.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-09.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 540,
+    "height": 329,
+    "uses": [
+      {
+        "page": 8,
+        "section": "Quy trình",
+        "xref": 1688,
+        "page_area_ratio": 0.0291,
+        "raw_file": "assets/pdf-small-images/page-08-img-04-xref-1688.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-10.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 247,
+    "height": 165,
+    "uses": [
+      {
+        "page": 8,
+        "section": "Quy trình",
+        "xref": 1690,
+        "page_area_ratio": 0.0093,
+        "raw_file": "assets/pdf-small-images/page-08-img-05-xref-1690.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-11.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 261,
+    "height": 174,
+    "uses": [
+      {
+        "page": 8,
+        "section": "Quy trình",
+        "xref": 1692,
+        "page_area_ratio": 0.0104,
+        "raw_file": "assets/pdf-small-images/page-08-img-06-xref-1692.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-12.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 251,
+    "height": 167,
+    "uses": [
+      {
+        "page": 8,
+        "section": "Quy trình",
+        "xref": 1694,
+        "page_area_ratio": 0.0096,
+        "raw_file": "assets/pdf-small-images/page-08-img-07-xref-1694.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/quy-trinh-13.jpeg",
+    "section": "Quy trình",
+    "section_slug": "quy-trinh",
+    "width": 247,
+    "height": 165,
+    "uses": [
+      {
+        "page": 8,
+        "section": "Quy trình",
+        "xref": 1696,
+        "page_area_ratio": 0.0093,
+        "raw_file": "assets/pdf-small-images/page-08-img-08-xref-1696.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-01.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 478,
+    "height": 318,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1707,
+        "page_area_ratio": 0.0348,
+        "raw_file": "assets/pdf-small-images/page-09-img-01-xref-1707.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-02.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 620,
+    "height": 400,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1708,
+        "page_area_ratio": 0.0344,
+        "raw_file": "assets/pdf-small-images/page-09-img-02-xref-1708.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-03.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 496,
+    "height": 330,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1709,
+        "page_area_ratio": 0.0376,
+        "raw_file": "assets/pdf-small-images/page-09-img-03-xref-1709.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-04.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 700,
+    "height": 338,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1710,
+        "page_area_ratio": 0.0501,
+        "raw_file": "assets/pdf-small-images/page-09-img-04-xref-1710.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-05.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 800,
+    "height": 450,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1711,
+        "page_area_ratio": 0.0426,
+        "raw_file": "assets/pdf-small-images/page-09-img-05-xref-1711.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-06.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 487,
+    "height": 324,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1712,
+        "page_area_ratio": 0.0362,
+        "raw_file": "assets/pdf-small-images/page-09-img-06-xref-1712.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-07.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 600,
+    "height": 354,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1713,
+        "page_area_ratio": 0.04,
+        "raw_file": "assets/pdf-small-images/page-09-img-07-xref-1713.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-08.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 491,
+    "height": 327,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1714,
+        "page_area_ratio": 0.0368,
+        "raw_file": "assets/pdf-small-images/page-09-img-08-xref-1714.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-09.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 582,
+    "height": 328,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1715,
+        "page_area_ratio": 0.0438,
+        "raw_file": "assets/pdf-small-images/page-09-img-09-xref-1715.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-10.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 462,
+    "height": 307,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1716,
+        "page_area_ratio": 0.0325,
+        "raw_file": "assets/pdf-small-images/page-09-img-10-xref-1716.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-11.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 742,
+    "height": 495,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1717,
+        "page_area_ratio": 0.0843,
+        "raw_file": "assets/pdf-small-images/page-09-img-11-xref-1717.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-12.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 496,
+    "height": 330,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1718,
+        "page_area_ratio": 0.0376,
+        "raw_file": "assets/pdf-small-images/page-09-img-12-xref-1718.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-13.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 484,
+    "height": 322,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1719,
+        "page_area_ratio": 0.0357,
+        "raw_file": "assets/pdf-small-images/page-09-img-13-xref-1719.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-14.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 478,
+    "height": 336,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1720,
+        "page_area_ratio": 0.0368,
+        "raw_file": "assets/pdf-small-images/page-09-img-14-xref-1720.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-15.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 477,
+    "height": 318,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1721,
+        "page_area_ratio": 0.0695,
+        "raw_file": "assets/pdf-small-images/page-09-img-15-xref-1721.jpeg"
+      },
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1721,
+        "page_area_ratio": 0.0695,
+        "raw_file": "assets/pdf-small-images/page-09-img-17-xref-1721.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-16.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 700,
+    "height": 300,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1722,
+        "page_area_ratio": 0.0466,
+        "raw_file": "assets/pdf-small-images/page-09-img-16-xref-1722.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-17.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 760,
+    "height": 442,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1723,
+        "page_area_ratio": 0.039,
+        "raw_file": "assets/pdf-small-images/page-09-img-19-xref-1723.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-18.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 960,
+    "height": 1280,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1724,
+        "page_area_ratio": 0.1879,
+        "raw_file": "assets/pdf-small-images/page-09-img-20-xref-1724.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-19.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 484,
+    "height": 322,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1725,
+        "page_area_ratio": 0.0715,
+        "raw_file": "assets/pdf-small-images/page-09-img-21-xref-1725.jpeg"
+      },
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1725,
+        "page_area_ratio": 0.0715,
+        "raw_file": "assets/pdf-small-images/page-09-img-23-xref-1725.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-20.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 512,
+    "height": 342,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1726,
+        "page_area_ratio": 0.0401,
+        "raw_file": "assets/pdf-small-images/page-09-img-22-xref-1726.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-21.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 492,
+    "height": 328,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1727,
+        "page_area_ratio": 0.037,
+        "raw_file": "assets/pdf-small-images/page-09-img-24-xref-1727.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/san-pham-22.jpeg",
+    "section": "Sản phẩm",
+    "section_slug": "san-pham",
+    "width": 595,
+    "height": 317,
+    "uses": [
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 1728,
+        "page_area_ratio": 0.0433,
+        "raw_file": "assets/pdf-small-images/page-09-img-25-xref-1728.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-01.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 946,
+    "height": 630,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 80,
+        "page_area_ratio": 0.1368,
+        "raw_file": "assets/pdf-small-images/page-03-img-01-xref-80.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-02.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 365,
+    "height": 219,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 81,
+        "page_area_ratio": 0.0183,
+        "raw_file": "assets/pdf-small-images/page-03-img-02-xref-81.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-03.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 111,
+    "height": 43,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 83,
+        "page_area_ratio": 0.0011,
+        "raw_file": "assets/pdf-small-images/page-03-img-03-xref-83.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-04.png",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 112,
+    "height": 113,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 85,
+        "page_area_ratio": 0.0029,
+        "raw_file": "assets/pdf-small-images/page-03-img-04-xref-85.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-05.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 494,
+    "height": 329,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 87,
+        "page_area_ratio": 0.0373,
+        "raw_file": "assets/pdf-small-images/page-03-img-05-xref-87.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-06.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 492,
+    "height": 328,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 89,
+        "page_area_ratio": 0.037,
+        "raw_file": "assets/pdf-small-images/page-03-img-06-xref-89.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-07.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 209,
+    "height": 229,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 90,
+        "page_area_ratio": 0.0109,
+        "raw_file": "assets/pdf-small-images/page-03-img-07-xref-90.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-08.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 165,
+    "height": 109,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 92,
+        "page_area_ratio": 0.0041,
+        "raw_file": "assets/pdf-small-images/page-03-img-08-xref-92.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-09.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 168,
+    "height": 191,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 94,
+        "page_area_ratio": 0.0074,
+        "raw_file": "assets/pdf-small-images/page-03-img-09-xref-94.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-10.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 186,
+    "height": 306,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 96,
+        "page_area_ratio": 0.013,
+        "raw_file": "assets/pdf-small-images/page-03-img-10-xref-96.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-11.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 131,
+    "height": 51,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 98,
+        "page_area_ratio": 0.0015,
+        "raw_file": "assets/pdf-small-images/page-03-img-11-xref-98.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-12.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 338,
+    "height": 340,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 100,
+        "page_area_ratio": 0.0264,
+        "raw_file": "assets/pdf-small-images/page-03-img-12-xref-100.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-13.jpeg",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 129,
+    "height": 50,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 102,
+        "page_area_ratio": 0.0015,
+        "raw_file": "assets/pdf-small-images/page-03-img-13-xref-102.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/su-menh-tam-nhin-14.png",
+    "section": "Sứ mệnh / Tầm nhìn",
+    "section_slug": "su-menh-tam-nhin",
+    "width": 213,
+    "height": 215,
+    "uses": [
+      {
+        "page": 3,
+        "section": "Sứ mệnh / Tầm nhìn",
+        "xref": 104,
+        "page_area_ratio": 0.0105,
+        "raw_file": "assets/pdf-small-images/page-03-img-14-xref-104.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-01.jpeg",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 302,
+    "height": 201,
+    "uses": [
+      {
+        "page": 4,
+        "section": "Tổ chức / Năng lực",
+        "xref": 161,
+        "page_area_ratio": 0.0139,
+        "raw_file": "assets/pdf-small-images/page-04-img-01-xref-161.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-02.jpeg",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 302,
+    "height": 201,
+    "uses": [
+      {
+        "page": 4,
+        "section": "Tổ chức / Năng lực",
+        "xref": 163,
+        "page_area_ratio": 0.0139,
+        "raw_file": "assets/pdf-small-images/page-04-img-02-xref-163.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-03.jpeg",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 299,
+    "height": 199,
+    "uses": [
+      {
+        "page": 4,
+        "section": "Tổ chức / Năng lực",
+        "xref": 165,
+        "page_area_ratio": 0.0136,
+        "raw_file": "assets/pdf-small-images/page-04-img-03-xref-165.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-04.jpeg",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 1568,
+    "height": 1043,
+    "uses": [
+      {
+        "page": 4,
+        "section": "Tổ chức / Năng lực",
+        "xref": 167,
+        "page_area_ratio": 0.194,
+        "raw_file": "assets/pdf-small-images/page-04-img-04-xref-167.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-05.png",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 149,
+    "height": 149,
+    "uses": [
+      {
+        "page": 4,
+        "section": "Tổ chức / Năng lực",
+        "xref": 136,
+        "page_area_ratio": 0.0051,
+        "raw_file": "assets/pdf-small-images/page-04-img-05-xref-136.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-06.png",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 149,
+    "height": 149,
+    "uses": [
+      {
+        "page": 4,
+        "section": "Tổ chức / Năng lực",
+        "xref": 148,
+        "page_area_ratio": 0.0051,
+        "raw_file": "assets/pdf-small-images/page-04-img-06-xref-148.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-07.png",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 149,
+    "height": 149,
+    "uses": [
+      {
+        "page": 4,
+        "section": "Tổ chức / Năng lực",
+        "xref": 158,
+        "page_area_ratio": 0.0051,
+        "raw_file": "assets/pdf-small-images/page-04-img-07-xref-158.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-08.png",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 374,
+    "height": 529,
+    "uses": [
+      {
+        "page": 6,
+        "section": "Tổ chức / Năng lực",
+        "xref": 488,
+        "page_area_ratio": 0.0453,
+        "raw_file": "assets/pdf-small-images/page-06-img-01-xref-488.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-09.png",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 406,
+    "height": 574,
+    "uses": [
+      {
+        "page": 6,
+        "section": "Tổ chức / Năng lực",
+        "xref": 490,
+        "page_area_ratio": 0.0535,
+        "raw_file": "assets/pdf-small-images/page-06-img-02-xref-490.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-10.png",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 394,
+    "height": 541,
+    "uses": [
+      {
+        "page": 6,
+        "section": "Tổ chức / Năng lực",
+        "xref": 491,
+        "page_area_ratio": 0.0488,
+        "raw_file": "assets/pdf-small-images/page-06-img-03-xref-491.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-11.png",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 427,
+    "height": 588,
+    "uses": [
+      {
+        "page": 6,
+        "section": "Tổ chức / Năng lực",
+        "xref": 493,
+        "page_area_ratio": 0.0577,
+        "raw_file": "assets/pdf-small-images/page-06-img-04-xref-493.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-12.png",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 375,
+    "height": 531,
+    "uses": [
+      {
+        "page": 6,
+        "section": "Tổ chức / Năng lực",
+        "xref": 494,
+        "page_area_ratio": 0.0457,
+        "raw_file": "assets/pdf-small-images/page-06-img-05-xref-494.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/to-chuc-nang-luc-13.png",
+    "section": "Tổ chức / Năng lực",
+    "section_slug": "to-chuc-nang-luc",
+    "width": 408,
+    "height": 577,
+    "uses": [
+      {
+        "page": 6,
+        "section": "Tổ chức / Năng lực",
+        "xref": 496,
+        "page_area_ratio": 0.054,
+        "raw_file": "assets/pdf-small-images/page-06-img-06-xref-496.png"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/trang-dau-01.jpeg",
+    "section": "Trang đầu",
+    "section_slug": "trang-dau",
+    "width": 842,
+    "height": 560,
+    "uses": [
+      {
+        "page": 1,
+        "section": "Trang đầu",
+        "xref": 2212,
+        "page_area_ratio": 0.1083,
+        "raw_file": "assets/pdf-small-images/page-01-img-01-xref-2212.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/trang-dau-02.jpeg",
+    "section": "Trang đầu",
+    "section_slug": "trang-dau",
+    "width": 1539,
+    "height": 1024,
+    "uses": [
+      {
+        "page": 1,
+        "section": "Trang đầu",
+        "xref": 2163,
+        "page_area_ratio": 0.3407,
+        "raw_file": "assets/pdf-small-images/page-01-img-02-xref-2163.jpeg"
+      },
+      {
+        "page": 9,
+        "section": "Sản phẩm",
+        "xref": 2163,
+        "page_area_ratio": 0.3407,
+        "raw_file": "assets/pdf-small-images/page-09-img-18-xref-2163.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/trang-dau-03.jpeg",
+    "section": "Trang đầu",
+    "section_slug": "trang-dau",
+    "width": 625,
+    "height": 416,
+    "uses": [
+      {
+        "page": 1,
+        "section": "Trang đầu",
+        "xref": 2214,
+        "page_area_ratio": 0.0596,
+        "raw_file": "assets/pdf-small-images/page-01-img-03-xref-2214.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/trang-dau-04.jpeg",
+    "section": "Trang đầu",
+    "section_slug": "trang-dau",
+    "width": 643,
+    "height": 428,
+    "uses": [
+      {
+        "page": 1,
+        "section": "Trang đầu",
+        "xref": 2216,
+        "page_area_ratio": 0.0631,
+        "raw_file": "assets/pdf-small-images/page-01-img-04-xref-2216.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/trang-dau-05.jpeg",
+    "section": "Trang đầu",
+    "section_slug": "trang-dau",
+    "width": 721,
+    "height": 480,
+    "uses": [
+      {
+        "page": 1,
+        "section": "Trang đầu",
+        "xref": 2218,
+        "page_area_ratio": 0.0795,
+        "raw_file": "assets/pdf-small-images/page-01-img-05-xref-2218.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/trang-dau-06.jpeg",
+    "section": "Trang đầu",
+    "section_slug": "trang-dau",
+    "width": 1207,
+    "height": 803,
+    "uses": [
+      {
+        "page": 1,
+        "section": "Trang đầu",
+        "xref": 2166,
+        "page_area_ratio": 0.2228,
+        "raw_file": "assets/pdf-small-images/page-01-img-06-xref-2166.jpeg"
+      },
+      {
+        "page": 2,
+        "section": "Giới thiệu",
+        "xref": 2166,
+        "page_area_ratio": 0.2228,
+        "raw_file": "assets/pdf-small-images/page-02-img-03-xref-2166.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/trang-dau-07.jpeg",
+    "section": "Trang đầu",
+    "section_slug": "trang-dau",
+    "width": 916,
+    "height": 610,
+    "uses": [
+      {
+        "page": 1,
+        "section": "Trang đầu",
+        "xref": 2220,
+        "page_area_ratio": 0.1281,
+        "raw_file": "assets/pdf-small-images/page-01-img-07-xref-2220.jpeg"
+      }
+    ]
+  },
+  {
+    "file": "assets/pdf-images-clean/trang-dau-08.jpeg",
+    "section": "Trang đầu",
+    "section_slug": "trang-dau",
+    "width": 750,
+    "height": 499,
+    "uses": [
+      {
+        "page": 1,
+        "section": "Trang đầu",
+        "xref": 2165,
+        "page_area_ratio": 0.0859,
+        "raw_file": "assets/pdf-small-images/page-01-img-08-xref-2165.jpeg"
+      },
+      {
+        "page": 2,
+        "section": "Giới thiệu",
+        "xref": 2165,
+        "page_area_ratio": 0.0859,
+        "raw_file": "assets/pdf-small-images/page-02-img-04-xref-2165.jpeg"
+      }
+    ]
+  }
+]
