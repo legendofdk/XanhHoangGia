@@ -35,7 +35,7 @@ Email: congtyhoanggia8990@gmail.com
 ### Trang 2
 
 ```text
-Chúng tôi, Công ty TNHH kinh doanh & sản xuất thương mại thực phẩm Hoàng Gia, xin gửi lời 
+Công ty TNHH kinh doanh & sản xuất thương mại thực phẩm Hoàng Gia, xin gửi lời 
 chào trân trọng và lời cảm ơn sâu sắc đến Quý Khách hàng và Đối tác đã tin tưởng và đồng hành 
 cùng chúng tôi trong suốt chặng đường phát triển.
 Được thành lập trong bối cảnh tỉnh Hà Nam đang phát triển mạnh mẽ với các khu công nghiệp 

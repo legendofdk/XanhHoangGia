@@ -153,10 +153,11 @@ const legalDocsData = {
     },
   ],
   documents: [
-    "assets/pdf-images-clean/chung-nhan-01.jpeg",
-    "assets/pdf-images-clean/chung-nhan-02.png",
     "assets/pdf-images-clean/chung-nhan-03.jpeg",
     "assets/pdf-images-clean/chung-nhan-04.jpeg",
+    "assets/pdf-images-clean/chung-nhan-01.jpeg",
+    "assets/pdf-images-clean/HACCP.png",
+    "assets/pdf-images-clean/chung-nhan-02.png",
     "assets/pdf-images-clean/chung-nhan-07.jpeg",
     "assets/pdf-images-clean/chung-nhan-11.jpeg",
     "assets/pdf-images-clean/chung-nhan-15.jpeg",
