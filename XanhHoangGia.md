@@ -42,10 +42,10 @@ cùng chúng tôi trong suốt chặng đường phát triển.
 Được thành lập trong bối cảnh tỉnh Hà Nam đang phát triển mạnh mẽ với các khu công nghiệp 
 được đầu tư đồng bộ về cơ sở hạ tầng và các chính sách ưu đãi từ Chính phủ Việt Nam, Công ty 
 TNHH Kinh doanh & Sản xuất Thương mại Thực phẩm Hoàng Gia ra đời mang theo sứ mệnh: “Sức 
-khỏe của Công nhân là sức khỏe của chúng tôi.” Chúng tôi cam kết mang đến những sản phẩm 
+khỏe của Người Lao động là sức khỏe của chúng tôi.” Chúng tôi cam kết mang đến những sản phẩm 
 thực phẩm chất lượng cao, giá trị dinh dưỡng vượt trội với sự trân trọng và trách nhiệm cao nhất.
 Với triết lý kinh doanh dựa trên đạo đức, sự tận tâm và xem khách hàng là trọng tâm, chúng tôi 
-tin rằng chất lượng dịch vụ chính là yếu tố khác biệt. Trải qua 5 năm hoạt động không ngừng học 
+tin rằng chất lượng dịch vụ chính là yếu tố khác biệt. Trải qua 10 năm hoạt động không ngừng học 
 hỏi và phát triển, Hoàng Gia đã trở thành thương hiệu uy tín trong lĩnh vực cung cấp thực phẩm 
 tại Hà Nam và khu vực miền Bắc. Tầm nhìn của chúng tôi là “Trở thành doanh nghiệp hàng đầu 
 tại Việt Nam trong việc chế biến và cung cấp thực phẩm đáp ứng mọi nhu cầu cho tất cả các 
@@ -92,7 +92,7 @@ trên thị trường. Bằng cách nhấn mạnh vào chất lượng và sự 
 đảm bảo sự hài lòng của khách hàng mà còn phát triển bền vững và thành công trong 
 ngành công nghiệp thực phẩm.
 TÔN CHỈ HOẠT ĐỘNG - GIÁ TRỊ CỐT LÕI
-“Sức khỏe của Công nhân là sức khỏe của chúng tôi, mang đến cho con 
+“Sức khỏe của Người Lao động là sức khỏe của chúng tôi, mang đến cho con 
 người nguồn thực phẩm tốt có giá trị cao về dinh dưỡng và chất lượng bằng 
 sự trân trọng sâu sắc và trách nhiệm.”
 Sứ mệnh này là kim chỉ nam cho mọi hoạt động của Hoàng Gia, giúp 
@@ -186,7 +186,7 @@ bị, bao gói, bảo quản, phân phối, bán lẻ, kinh doanh dịch vụ ă
 cũng như các biện pháp kiểm soát an toàn thực phẩm cụ thể sẽ được áp dụng ở các bước nhất 
 định trong toàn bộ chuỗi thực phẩm khi thích hợp. 
 Trong lĩnh vực hoạt động của mình Hoàng Gia luôn chú trọng chất lượng, việc đảm bảo vệ sinh 
-ATTP là cốt lõi, luôn đặt sức khỏe công nhân, của khách hàng là trọng tâm, chính vì vậy HACCP 
+ATTP là cốt lõi, luôn đặt sức khỏe người lao động, của khách hàng là trọng tâm, chính vì vậy HACCP 
 là lựa chọn hàng đầu để Hoàng Gia thực hiện sứ mệnh của mình. Trong tương lai, HACCP sẽ là 
 tiền đề để Hoàng Gia thực hiện các mục tiêu quan trọng khác trên chặng đường phát triển trở 
 thành một Doanh nghiệp hàng đầu Việt Nam trong lĩnh vực kinh doanh thực phẩm và bán lẻ 

@@ -120,7 +120,7 @@ const sectionMedia = {
       eyebrow: "Sứ mệnh",
       caption: "Sứ mệnh",
       quote:
-        "Sức khỏe của Công nhân là sức khỏe của chúng tôi, mang đến nguồn thực phẩm tốt có giá trị cao về dinh dưỡng và chất lượng.",
+        "Sức khỏe của Người Lao động là sức khỏe của chúng tôi, mang đến nguồn thực phẩm tốt có giá trị cao về dinh dưỡng và chất lượng.",
       summary:
         "Sứ mệnh này là kim chỉ nam cho cách Hoàng Gia lựa chọn sản phẩm, kiểm soát chất lượng và đồng hành cùng khách hàng mỗi ngày.",
     },
@@ -149,7 +149,7 @@ const legalDocsData = {
     },
     {
       title: "Cam kết của Hoàng Gia",
-      text: "Hoàng Gia luôn lấy chất lượng và vệ sinh an toàn thực phẩm làm cốt lõi, đặt sức khỏe công nhân và khách hàng ở vị trí trọng tâm. HACCP là nền tảng để doanh nghiệp thực hiện sứ mệnh của mình và tiếp tục phát triển thành đơn vị uy tín trong lĩnh vực kinh doanh, cung ứng và bán lẻ thực phẩm.",
+      text: "Hoàng Gia luôn lấy chất lượng và vệ sinh an toàn thực phẩm làm cốt lõi, đặt sức khỏe người lao động và khách hàng ở vị trí trọng tâm. HACCP là nền tảng để doanh nghiệp thực hiện sứ mệnh của mình và tiếp tục phát triển thành đơn vị uy tín trong lĩnh vực kinh doanh, cung ứng và bán lẻ thực phẩm.",
     },
   ],
   documents: [
@@ -297,7 +297,7 @@ function renderIntroPage(text) {
   letterCard.append(introHeading);
 
   const quote = make("blockquote", "intro-quote");
-  quote.textContent = "“Sức khỏe của Công nhân là sức khỏe của chúng tôi.”";
+  quote.textContent = "“Sức khỏe của Người Lao động là sức khỏe của chúng tôi.”";
   letterCard.append(quote);
 
   paragraphs.forEach((paragraph) => {
@@ -354,7 +354,7 @@ function renderStrategyPage() {
       title: "Sứ mệnh",
       image: mediaItems[1],
       quote:
-        "Sức khỏe của Công nhân là sức khỏe của chúng tôi, mang đến cho con người nguồn thực phẩm tốt có giá trị cao về dinh dưỡng và chất lượng bằng sự trân trọng sâu sắc và trách nhiệm.",
+        "Sức khỏe của Người Lao động là sức khỏe của chúng tôi, mang đến cho con người nguồn thực phẩm tốt có giá trị cao về dinh dưỡng và chất lượng bằng sự trân trọng sâu sắc và trách nhiệm.",
       summary:
         "Sứ mệnh là kim chỉ nam cho mọi hoạt động, từ lựa chọn sản phẩm, kiểm soát chất lượng đến cách doanh nghiệp đồng hành với khách hàng và cộng đồng.",
     },
