@@ -27,8 +27,7 @@ COMPANY
 PROFILE
 CÔNG TY TNHH KD & SX THƯƠNG MẠI
 THỰC PHẨM HOÀNG GIA
-Địa chỉ: TDP Đồng Văn, Phường Đồng Văn, Thị xã Duy Tiên,
-Tỉnh Hà Nam, Việt Nam
+Địa chỉ: TDP Đồng Văn, Phường Đồng Văn, Ninh Bình
 SĐT: 0944 503 111
 Email: congtyhoanggia8990@gmail.com
 ```
@@ -75,7 +74,7 @@ E-Mail:
 CÔNG TY TNHH KINH DOANH & SẢN XUẤT THƯƠNG MẠI THỰC PHẨM HOÀNG GIA
 HOANG GIA FOOD TRADING PRODUCE & BUSINESS COMPANY LIMITED
 0700828342
-TDP Đồng Văn, P . Đồng Văn, Thị xã Duy Tiên, Tỉnh Hà Nam, Việt Nam
+TDP Đồng Văn, Phường Đồng Văn, Ninh Bình
 0944 503 111
 congtyhoanggia8990@gmail.com
 ```

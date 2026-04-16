@@ -154,7 +154,7 @@ const legalDocsData = {
   ],
   documents: [
     "assets/pdf-images-clean/chung-nhan-01.jpeg",
-    "assets/pdf-images-clean/chung-nhan-02.jpeg",
+    "assets/pdf-images-clean/chung-nhan-02.png",
     "assets/pdf-images-clean/chung-nhan-03.jpeg",
     "assets/pdf-images-clean/chung-nhan-04.jpeg",
     "assets/pdf-images-clean/chung-nhan-07.jpeg",
@@ -164,6 +164,20 @@ const legalDocsData = {
     "assets/pdf-images-clean/chung-nhan-19.jpeg",
   ],
 };
+
+const partnerData = window.XANH_HOANG_GIA_PARTNER_DATA;
+const mainSuppliers = partnerData.mainSuppliers;
+const otherPartners = partnerData.otherPartners;
+
+function rememberProfileScroll(targetHash) {
+  sessionStorage.setItem(
+    "xanhHoangGiaReturnPosition",
+    JSON.stringify({
+      hash: targetHash,
+      scrollY: window.scrollY,
+    }),
+  );
+}
 
 function make(tag, className, text) {
   const el = document.createElement(tag);
@@ -785,61 +799,6 @@ function renderProductsSection() {
 }
 
 function renderSuppliersSection() {
-  const suppliers = [
-    {
-      number: "01",
-      name: "Công ty TNHH ĐTSX Phát Triển Nông Nghiệp WINECO",
-      summary:
-        "Nhà cung cấp rau, củ, quả sạch với định hướng sản xuất nông nghiệp hiện đại, chú trọng chất lượng, độ an toàn và sự tươi ngon của sản phẩm.",
-      details:
-        "Theo thông tin doanh nghiệp công khai, WINECO có ngành nghề chính là trồng rau, đậu các loại và trồng hoa, cây cảnh. Các mô tả giới thiệu về WinEco nhấn mạnh việc ứng dụng công nghệ cao, kiểm soát chất lượng và hướng tới các tiêu chuẩn như VietGAP, Organic, GlobalGAP cho nhóm rau củ quả.",
-      images: [
-        "assets/pdf-images-clean/wineco1.jpg",
-        "assets/pdf-images-clean/wineco3.jpg",
-        "assets/pdf-images-clean/wineco4.jpg",
-      ],
-    },
-    {
-      number: "02",
-      name: "HTX Canh Nậu",
-      summary:
-        "Nhà cung cấp rau, củ, quả phục vụ nguồn nguyên liệu tươi cho Hoàng Gia Foods, góp phần đảm bảo tính ổn định và đa dạng của nhóm nông sản.",
-      details:
-        "Canh Nậu được đưa vào nhóm nhà cung cấp chính cho danh mục rau, củ, quả với trọng tâm là nguồn hàng tươi, được chọn lọc và kiểm soát theo tiêu chí nhập hàng của Hoàng Gia trước khi đưa vào bảo quản, sơ chế và cung ứng.",
-      images: [
-        "assets/pdf-images-clean/canhnau1.jpg",
-        "assets/pdf-images-clean/canhnau2.webp",
-        "assets/pdf-images-clean/canhnau3.jpg",
-      ],
-    },
-    {
-      number: "03",
-      name: "Công ty Nam Bình",
-      summary:
-        "Nhà cung cấp gạo cho Hoàng Gia Foods, hỗ trợ đảm bảo nguồn lương thực ổn định, phù hợp nhu cầu bếp ăn công nghiệp và suất ăn tập thể.",
-      details:
-        "Gạo Nam Bình được đưa vào nhóm nhà cung cấp chính nhằm bổ sung nguồn gạo chất lượng, phục vụ danh mục thực phẩm thiết yếu với yêu cầu ổn định về sản lượng, độ đồng đều và an toàn trong quá trình cung ứng.",
-      images: [
-        "assets/pdf-images-clean/gaonambinh1.jpg",
-        "assets/pdf-images-clean/gaonambinh2.jpg",
-        "assets/pdf-images-clean/gaonambinh3.jpg",
-      ],
-    },
-    {
-      number: "04",
-      name: "Vinh Anh Food",
-      summary:
-        "Đối tác quan trọng chuyên cung cấp thịt lợn chất lượng cao, an toàn, giàu dinh dưỡng và đáp ứng các tiêu chuẩn khắt khe về vệ sinh an toàn thực phẩm.",
-      details:
-        "Vinh Anh Food xây dựng chuỗi liên kết sản xuất thịt heo sạch, truy xuất nguồn gốc và vận hành nhà máy giết mổ đồng bộ, hiện đại. Thực phẩm được phân phối đến Hoàng Gia bằng xe chuyên dụng có hệ thống lạnh.",
-      images: [
-        "assets/pdf-images-clean/doi-tac-nha-cung-cap-17.jpeg",
-        "assets/pdf-images-clean/doi-tac-nha-cung-cap-09.jpeg",
-        "assets/pdf-images-clean/doi-tac-nha-cung-cap-19.jpeg",
-      ],
-    },
-  ];
-
   const wrapper = make("div", "suppliers-layout");
   const intro = make("div", "suppliers-intro");
   intro.append(make("p", "suppliers-kicker", "Các nhà cung cấp mục tiêu"));
@@ -853,8 +812,17 @@ function renderSuppliersSection() {
   );
 
   const grid = make("div", "suppliers-grid");
-  suppliers.forEach((supplier) => {
-    const card = make("article", "supplier-card");
+
+  function openSupplierDetail(supplier) {
+    rememberProfileScroll("#doi-tac");
+    window.location.href = `partner-detail.html?type=supplier&id=${encodeURIComponent(supplier.id)}`;
+  }
+
+  mainSuppliers.forEach((supplier) => {
+    const card = make("article", "supplier-card supplier-card-clickable");
+    card.tabIndex = 0;
+    card.setAttribute("role", "button");
+    card.setAttribute("aria-label", `Chi tiết ${supplier.name}`);
     const media = make("div", "supplier-media");
     const mainImage = make("img", "supplier-image-main");
     mainImage.src = supplier.images[0];
@@ -877,9 +845,24 @@ function renderSuppliersSection() {
     body.append(make("h4", "supplier-name", supplier.name));
     body.append(make("p", "supplier-summary", supplier.summary));
     body.append(make("p", "supplier-details", supplier.details));
+    const detailButton = make("button", "supplier-detail-link", "Chi tiết");
+    detailButton.type = "button";
+    body.append(detailButton);
 
     card.append(media);
     card.append(body);
+    const handleOpen = () => openSupplierDetail(supplier);
+    card.addEventListener("click", handleOpen);
+    card.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        handleOpen();
+      }
+    });
+    detailButton.addEventListener("click", (event) => {
+      event.stopPropagation();
+      handleOpen();
+    });
 
     grid.append(card);
   });
@@ -930,67 +913,37 @@ function renderWarehouseSection() {
 }
 
 function renderOtherPartnersSection() {
-  const partners = [
-    {
-      name: "Danh sách Bộ Công ty Thực phẩm Hoàng Gia",
-      category: "Hồ sơ tổng hợp",
-    },
-    {
-      name: "Công ty TNHH KD & SXTM Thực Phẩm Hoàng Gia",
-      category: "Hồ sơ doanh nghiệp",
-    },
-    {
-      name: "NCC Rau, củ, quả Công ty Hưng Thành",
-      category: "Cung cấp rau, củ quả các loại",
-    },
-    {
-      name: "Công ty TNHH SXTM Và Xuất Nhập Khẩu Minh Hải",
-      category: "Cung cấp chuối chín, hoa quả",
-    },
-    {
-      name: "NCC Hoa quả HTX Cao Phong",
-      category: "Cung cấp hoa quả",
-    },
-    {
-      name: "NCC Thịt gia súc gia cầm Công ty Hòa Quỳnh",
-      category: "Cung cấp gia súc gia cầm",
-    },
-    {
-      name: "NCC Thịt gia súc gia cầm Công ty Tú Huyền",
-      category: "Cung cấp gia súc gia cầm",
-    },
-    {
-      name: "NCC Thịt gia súc gia cầm Công ty MeatDeli",
-      category: "Cung cấp gia súc gia cầm",
-    },
-    {
-      name: "NCC Trứng HKD Chiến Linh",
-      category: "Cung cấp các loại trứng",
-    },
-    {
-      name: "NCC Thủy hải sản Công ty Seafood",
-      category: "Cung cấp các loại thủy hải sản",
-    },
-    {
-      name: "NCC Hàng khô Công ty AMICO",
-      category: "Cung cấp các loại hàng khô",
-    },
-    {
-      name: "NCC Hàng khô Công ty Golden Food",
-      category: "Cung cấp các loại hàng khô",
-    },
-  ];
-
   const wrapper = make("div", "partners-layout");
   const grid = make("div", "partners-grid");
-  partners.forEach((partner) => {
-    const card = make("article", "partner-card");
+  otherPartners.forEach((partner) => {
+    const card = make("article", "partner-card partner-card-clickable");
+    card.tabIndex = 0;
+    card.setAttribute("role", "button");
+    card.setAttribute("aria-label", `Chi tiết ${partner.name}`);
 
     const body = make("div", "partner-body");
     body.append(make("h4", "partner-name", partner.name));
     body.append(make("p", "partner-address", partner.category));
+    const detailButton = make("button", "partner-detail-link", "Chi tiết");
+    detailButton.type = "button";
+    body.append(detailButton);
 
     card.append(body);
+    const handleOpen = () => {
+      rememberProfileScroll("#khach-hang");
+      window.location.href = `partner-detail.html?type=partner&id=${encodeURIComponent(partner.id)}`;
+    };
+    card.addEventListener("click", handleOpen);
+    card.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        handleOpen();
+      }
+    });
+    detailButton.addEventListener("click", (event) => {
+      event.stopPropagation();
+      handleOpen();
+    });
     grid.append(card);
   });
 
@@ -1248,10 +1201,43 @@ function setActiveNav() {
   sections.forEach((section) => observer.observe(section));
 }
 
+function restoreProfileScroll() {
+  const params = new URLSearchParams(window.location.search);
+  const shouldRestore = params.get("restore") === "1";
+  if (!shouldRestore) return;
+
+  const saved = sessionStorage.getItem("xanhHoangGiaReturnPosition");
+  const target = params.get("target");
+
+  sessionStorage.removeItem("xanhHoangGiaReturnPosition");
+  const previousScrollBehavior = document.documentElement.style.scrollBehavior;
+  document.documentElement.style.scrollBehavior = "auto";
+
+  requestAnimationFrame(() => {
+    try {
+      const { scrollY, hash } = saved ? JSON.parse(saved) : {};
+      if (Number.isFinite(scrollY)) {
+        window.scrollTo(0, scrollY);
+      } else if (hash) {
+        document.querySelector(hash)?.scrollIntoView({ block: "start" });
+      } else if (target) {
+        document.getElementById(target)?.scrollIntoView({ block: "start" });
+      }
+    } catch {
+      const fallback = document.getElementById(target || "doi-tac");
+      fallback?.scrollIntoView({ block: "start" });
+    }
+
+    window.history.replaceState(null, "", `${window.location.pathname}${target ? `#${target}` : ""}`);
+    document.documentElement.style.scrollBehavior = previousScrollBehavior;
+  });
+}
+
 function init() {
   renderNav();
   renderSections();
   setActiveNav();
+  restoreProfileScroll();
 }
 
 init();
